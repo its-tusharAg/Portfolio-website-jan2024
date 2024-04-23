@@ -780,7 +780,7 @@ footer .copyright {
         grid-template-columns: repeat(1, 1fr);
     }
 
-    section.contact .card-wrapper {
+    section.blog .card-wrapper {
         grid-template-columns: repeat(1, 1fr);
     }
 
